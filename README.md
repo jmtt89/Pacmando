@@ -19,6 +19,12 @@ Agradecemos MUY especialmente a:
 por inspirar esta idea
 
 
+Instalables
+-----------
+[Instalable](http://sourceforge.net/projects/pacmando/files/bin/Pacmando_Install.zip/download)
+[Ejecutable](http://sourceforge.net/projects/pacmando/files/bin/Pacmando_Binary.zip/download)
+
+
 Desarrollo
 -------------------
 En el desarrollo del juego utilizamos C# junto con XNA (un framework de microsoft para desarrollo de juegos), como IDE utilizamos visual studio 2008 y Adobe Photoshop para la parte grafica
