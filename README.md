@@ -1,16 +1,15 @@
 PACMANDO
 ============
 
-Este es el primer juego que nos aventuramos a hacer solo porque se puede, empezo como hacer pacman, el clasico de toda la vida para aprender con las tecnicas de programacion aprendidas en la universidad.
+Este es el primer juego que nos aventuramos a hacer solo porque se puede, empezó como hacer pacman, el clásico de toda la vida para aprender con las técnicas de programación aprendidas en la universidad.
 
-Hasta que un dia, por molestar a una amiga, que le molestaba la barba de su novio y el tiempo que este le dedicaba a jugar futbol, nacio Pacmando
+Hasta que un día, por molestar a una amiga, que le molestaba la barba de su novio y el tiempo que este le dedicaba a jugar fútbol, nació Pacmando
 
-El juego trata en que controlas a Pacmando (Armando) y debes comer todos los pellets para pasar de nivel (al igual que en Pacman), aqui los power pellets son Balones de Futbol y cuando Pacmando los come le crece la barba y el nivel se combierte en un campo de futbol
+El juego trata en que controlas a Pacmando (Armando) y debes comer todos los pellets para pasar de nivel (al igual que en Pacman), aquí los power pellets son Balones de Fútbol y cuando Pacmando los come le crece la barba y el nivel se convierte en un campo de fútbol
 
-Los Fantasmas Clasicos se cambian por La novia de Pacmando (Kary) que lo persigue hecha una fiera para que le dedique mas tiempo y deje de jugar futboll
+Los Fantasmas Clasicos se cambian por La novia de Pacmando (Kary) que lo persigue hecha una fiera para que le dedique mas tiempo y deje de jugar fútbol
 
 Agradecemos MUY especialmente a:
-
 
 
 [Armando Moreno](http://www.facebook.com/armando.moreno.3382)
