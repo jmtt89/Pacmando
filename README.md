@@ -21,8 +21,8 @@ por inspirar esta idea
 
 Instalables
 -----------
-[Instalable](http://sourceforge.net/projects/pacmando/files/bin/Pacmando_Install.zip/download)
-[Ejecutable](http://sourceforge.net/projects/pacmando/files/bin/Pacmando_Binary.zip/download)
+- [Instalable](http://sourceforge.net/projects/pacmando/files/bin/Pacmando_Install.zip/download)
+- [Ejecutable](http://sourceforge.net/projects/pacmando/files/bin/Pacmando_Binary.zip/download)
 
 
 Desarrollo
