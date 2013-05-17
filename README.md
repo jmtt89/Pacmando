@@ -1,19 +1,5 @@
 PACMANDO
 ============
-Integrantes:
-------------------
-	Jesus Torres
-	Alfredo Gallardo
-
-Desarrollo
--------------------
-En el desarrollo del juego utilizamos C# junto con XNA (un framework de microsoft para desarrollo de juegos), como IDE utilizamos visual studio 2008 y Adobe Photoshop para la parte grafica
-
-Antes de Subir este Juego Modificamos todo para que corra bajo Visual Studio 2010, XNA 4.0 y .net 4.0 ya que fue uno de los primeros juegos que hicimos
-
-
-Introduccion
--------------------
 
 Este es el primer juego que nos aventuramos a hacer solo porque se puede, empezo como hacer pacman, el clasico de toda la vida para aprender con las tecnicas de programacion aprendidas en la universidad.
 
@@ -32,3 +18,16 @@ Agradecemos MUY especialmente a:
 [Kariluz Quaranta](http://www.facebook.com/kariluz.quaranta)
 
 por inspirar esta idea
+
+
+Desarrollo
+-------------------
+En el desarrollo del juego utilizamos C# junto con XNA (un framework de microsoft para desarrollo de juegos), como IDE utilizamos visual studio 2008 y Adobe Photoshop para la parte grafica
+
+Antes de Subir este Juego Modificamos todo para que corra bajo Visual Studio 2010, XNA 4.0 y .net 4.0 ya que fue uno de los primeros juegos que hicimos
+
+
+Integrantes:
+------------------
+	Jesus Torres
+	Alfredo Gallardo
